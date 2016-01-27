@@ -1,0 +1,26 @@
+{
+  "name": "whiteboard",
+  "version": "1.0.0",
+  "description": "AReallyBigPage =============",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.14.2",
+    "express": "^4.13.4",
+    "sqlite3": "^3.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pbrandt1/AReallyBigPage.git"
+  },
+  "author": "Peter Brandt <peter.m.brandt@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pbrandt1/AReallyBigPage/issues"
+  },
+  "homepage": "https://github.com/pbrandt1/AReallyBigPage#readme"
+}
